@@ -36,6 +36,11 @@ Apache 2.4+ or NGINX 1.13+
 </VirtualHost>
 ```
 
+## Installation
+
+- Clone this repository;
+- Run `composer install` in the root dir.
+
 ## Debugging
 
 To enable debug mode, add the following to the `.env` file in the root dir:
